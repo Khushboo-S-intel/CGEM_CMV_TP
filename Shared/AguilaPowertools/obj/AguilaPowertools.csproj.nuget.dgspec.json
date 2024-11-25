@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\AguilaPowertools.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\AguilaPowertools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\AguilaPowertools.csproj",
+        "projectName": "AguilaPowertools",
+        "projectPath": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\AguilaPowertools.csproj",
+        "packagesPath": "C:\\Users\\kumarikh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\NuGet.Config",
+          "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\NuGet.Config",
+          "C:\\Users\\kumarikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/MIT-STA/STA_Tools/_packaging/sta_tools_packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Intel.Mfg.Aguila.Backend.Powertools": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
