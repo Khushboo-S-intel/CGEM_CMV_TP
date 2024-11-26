@@ -11,7 +11,7 @@ UserVars DecisionNode
 
 UserVars IAContentSetup
 {
-	ContentGroup ContentGroupName = IACore_Wc_limiters;
+	ContentGroup ContentGroupName = CMV-ARL8B32A-Search;
 	TimeSpan Timeout = "24:20:20";
 	String BootStage = "EFI";
 	Integer MaxNumberOfTestRuns = 1;
@@ -36,13 +36,17 @@ UserVars IAFrequencySetup
 	String CoreRatio8 = "8";
 	String CoreRatio16 = "16";
 	String CoreRatio20 = "20";
-	String CoreRatio25 = "25";
 	String CoreRatio30 = "30";
+    String CoreRatio40 = "40";
+    String CoreRatio48 = "48" ;
+    String CoreRatio54 = "54" ;
 }
 
 UserVars IATemperatureSetup
 {
 	String Temp75 ="75"; 
+    String Temp80 ="80";
+    String Temp85 ="85";
 }
 
 UserVars IAVoltageSetup
@@ -50,9 +54,10 @@ UserVars IAVoltageSetup
 	Double MaxVoltageCR_8 = 0.64;
 	Double MaxVoltageCR_16 = 0.71;
 	Double MaxVoltageCR_20 = 0.76;
-	Double MaxVoltageCR_24 = 0.82;
-	Double MaxVoltageCR_30 = 0.92;
-	Double MaxVoltageCR_35 = 1.07;
+	Double MaxVoltageCR_30 = 0.82;
+	Double MaxVoltageCR_40 = 0.92;
+	Double MaxVoltageCR_48 = 1.2;
+    Double MaxVoltageCR_54 = 1.3;
 
 	Double MinVoltage = 0.48;
 }
@@ -63,10 +68,10 @@ UserVars IASSFSetup
 	String ShmooDomainName = "IACore";
 	Array<String> ShmooLimiterDestination = null;
 	Array<ShmooAxis> IAShmooAxes = [
-		  ICXDShmooAxes.AVXModeAxis,
-          ICXDShmooAxes.FrequencyAxis,
-		  ICXDShmooAxes.TemperatureAxis,
-		  ICXDShmooAxes.VoltageAxis
+		  ShmooAxes.AVXModeAxis,
+          ShmooAxes.FrequencyAxis,
+		  ShmooAxes.TemperatureAxis,
+		  ShmooAxes.VoltageAxis
 		];
 	Boolean IsPostScrubEnabled = False;
 
@@ -92,10 +97,10 @@ UserVars IASearchSetup
 	String SearchDomainName = "IACore";
 	Array<String> SearchLimiters = null;
 	Array<SearchAxis> IASearchAxes = [
-          ICXDSearchAxes.AVXModeAxis,
-          ICXDSearchAxes.FrequencyAxis,
-		  ICXDSearchAxes.TemperatureAxis,
-		  ICXDSearchAxes.VoltageAxis
+          SearchAxes.AVXModeAxis,
+          SearchAxes.FrequencyAxis,
+		  SearchAxes.TemperatureAxis,
+		  SearchAxes.VoltageAxis
     ];
 	Boolean SearchForVmin = True;
 	Integer NumberOfLimiters = 2;

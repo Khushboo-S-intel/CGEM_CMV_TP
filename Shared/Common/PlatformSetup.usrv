@@ -5,7 +5,7 @@ Version 1.0;
 UserVars SerialPortSetupVars
 {
 	String BaudRate = "BR_115200";
-	Integer ComPortNumber = 14;
+	Integer ComPortNumber = 9;
 	String DataBits = "DB_8";
 	String Handshake = "NONE";
 	String Parity = "NO_PARITY";
@@ -16,7 +16,7 @@ UserVars SerialPortSetupVars
 ## ---------------------------------------------------- ##
 UserVars TargetBasePaths
 {
-    String Dragon = "FS5:\\EFI\\EFI\\ICXD10C_H\\";
+    String Dragon = "FS0:\\EFI\\EFI\\ICXD10C_H\\";
     String Dragon_CLM = "FS5:\\EFI\\EFI\\";
     String Rhel_Linux_Pcie = "//fs3//rhel//OryxPCIe1x1x16w2032b//";
     String Rhel_Nic = "//fs3//rhel//";

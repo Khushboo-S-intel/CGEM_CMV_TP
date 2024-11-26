@@ -30,36 +30,36 @@ UserVars SearchParam
 UserVars SearchAxesSetupVars
 {
 	Array<SearchAxis> IACoreSearchAxes = [
-          ICXDSearchAxes.AVXModeAxis,
-          ICXDSearchAxes.FrequencyAxis,
-		  ICXDSearchAxes.TemperatureAxis,
-		  ICXDSearchAxes.VoltageAxis
+          SearchAxes.AVXModeAxis,
+          SearchAxes.FrequencyAxis,
+		  SearchAxes.TemperatureAxis,
+		  SearchAxes.VoltageAxis
     ];
 }
 
-UserVars ICXDSearchAxes
+UserVars SearchAxes
 {
 	##					Axis Setup for AVX Mode				##
 	## ---------------------------------------------------- ##
-    SearchAxis AVXModeAxis =
-    {
-        AxisName = AVXModeVars.AxisName;
-        AxisCoordinates = 
-        [ 
-			## This Axis will always be active -- add more condition if needed.
-            { 
-                IsActive = True; 
-                Values = AVXModeVars.FixedValue;
-                Step = AVXModeVars.Step;
-                StopOn = AVXModeVars.StopOn;
-            },
-        ];
-        AxisSetupFlowExitPort = AVXModeVars.AxisExitPort;
-        AxisValueToSet = nameof(AVXModeVars.AxisCurrentValue); # by default the current value set to 128
-        AxisSetupPassed = nameof(AVXModeVars.AxisPointSetup);
-        AxisMaxAllowedSetupFailures = AVXModeVars.AxisMaxAllowedSetupFailures;    
-        AxisMaxAllowedConsecutiveSetupFailures = AVXModeVars.AxisMaxAllowedConsecutiveSetupFailures;
-    };
+ #   SearchAxis AVXModeAxis =
+ #   {
+ #       AxisName = AVXModeVars.AxisName;
+ #       AxisCoordinates = 
+ #       [ 
+#			## This Axis will always be active -- add more condition if needed.
+ #           { 
+ #               IsActive = True; 
+ #               Values = AVXModeVars.FixedValue;
+ #               Step = AVXModeVars.Step;
+ #               StopOn = AVXModeVars.StopOn;
+ #           },
+ #       ];
+ #       AxisSetupFlowExitPort = AVXModeVars.AxisExitPort;
+ #       AxisValueToSet = nameof(AVXModeVars.AxisCurrentValue); # by default the current value set to 128
+ #       AxisSetupPassed = nameof(AVXModeVars.AxisPointSetup);
+ #       AxisMaxAllowedSetupFailures = AVXModeVars.AxisMaxAllowedSetupFailures;    
+ #       AxisMaxAllowedConsecutiveSetupFailures = AVXModeVars.AxisMaxAllowedConsecutiveSetupFailures;
+ #   };
 
 	##			    Axis Setup for Temperature Mode		    ##
 	## ---------------------------------------------------- ##

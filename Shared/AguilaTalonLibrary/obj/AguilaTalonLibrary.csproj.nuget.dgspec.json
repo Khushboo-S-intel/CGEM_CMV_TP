@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaTalonLibrary\\AguilaTalonLibrary.csproj": {}
+    "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaTalonLibrary\\AguilaTalonLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaTalonLibrary\\AguilaTalonLibrary.csproj": {
+    "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaTalonLibrary\\AguilaTalonLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaTalonLibrary\\AguilaTalonLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaTalonLibrary\\AguilaTalonLibrary.csproj",
         "projectName": "AguilaTalonLibrary",
-        "projectPath": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaTalonLibrary\\AguilaTalonLibrary.csproj",
+        "projectPath": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaTalonLibrary\\AguilaTalonLibrary.csproj",
         "packagesPath": "C:\\Users\\kumarikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaTalonLibrary\\obj\\",
+        "outputPath": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaTalonLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\NuGet.Config",
-          "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\NuGet.Config",
+          "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\NuGet.Config",
+          "C:\\Users\\kumarikh\\Documents\\GitHub\\NuGet.Config",
           "C:\\Users\\kumarikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

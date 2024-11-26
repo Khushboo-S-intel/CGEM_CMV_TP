@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE5C21F-124E-4281-A425-62BD166AFEE4}|Modules\\Intec\\Intec.sysmtpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\modules\\intec\\intec.mtpl||{EA2C7E68-F1EB-49E7-A363-334EE595A7C4}",
+      "RelativeMoniker": "D:0:0:{CAE5C21F-124E-4281-A425-62BD166AFEE4}|Modules\\Intec\\Intec.sysmtpproj|solutionrelative:modules\\intec\\intec.mtpl||{EA2C7E68-F1EB-49E7-A363-334EE595A7C4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\testsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\testsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\test_operations.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\test_operations.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\intec.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\intec.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\environmentpycommands.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\environmentpycommands.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\contentexecutionsetup.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\contentexecutionsetup.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\common.imp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\common.imp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\common.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\common.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\common.cmconfig||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\common.cmconfig||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\bindefinitions.bdefs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\bindefinitions.bdefs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\axexsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\axexsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\iacoreexpsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\iacoreexpsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\platformsetup.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\platformsetup.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\product_features.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\product_features.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\searchcgemsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\searchcgemsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|c:\\users\\kumarikh\\documents\\github\\cgem_cmv_tp\\shared\\common\\shmoocgemsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFE7C776-EA2F-454B-B2C5-A211F8EEC84E}|Shared\\Common\\Common.sysctpproj|solutionrelative:shared\\common\\shmoocgemsetupvars.usrv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9dcd274e-2ca5-4b24-a2e5-7dd1ea5236f1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f12a8d43-23f0-441a-a0d6-6a6730b119b9}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ad9b49e0-7538-469a-9e53-6429777a2a88}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1147,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ef70f940-ce09-48b4-ba8d-fbefc2dd5899}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 299,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c62b18f-232a-43f4-9d6c-e52456a2464c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{427b2608-ae73-48f6-8368-025971261e63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Intec.mtpl",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Modules\\Intec\\Intec.mtpl",
+              "RelativeDocumentMoniker": "Modules\\Intec\\Intec.mtpl",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Modules\\Intec\\Intec.mtpl",
+              "RelativeToolTip": "Modules\\Intec\\Intec.mtpl",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:09:02.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestSetupVars.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\TestSetupVars.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\TestSetupVars.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\TestSetupVars.usrv",
+              "RelativeToolTip": "Shared\\Common\\TestSetupVars.usrv",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:06:26.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Intec.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Intec.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\Intec.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Intec.usrv",
+              "RelativeToolTip": "Shared\\Common\\Intec.usrv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:05:59.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContentExecutionSetup.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\ContentExecutionSetup.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\ContentExecutionSetup.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\ContentExecutionSetup.usrv",
+              "RelativeToolTip": "Shared\\Common\\ContentExecutionSetup.usrv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:02:16.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Common.imp",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Common.imp",
+              "RelativeDocumentMoniker": "Shared\\Common\\Common.imp",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Common.imp",
+              "RelativeToolTip": "Shared\\Common\\Common.imp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:02:04.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Common.env",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Common.env",
+              "RelativeDocumentMoniker": "Shared\\Common\\Common.env",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Common.env",
+              "RelativeToolTip": "Shared\\Common\\Common.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:02:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Common.cmconfig",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Common.cmconfig",
+              "RelativeDocumentMoniker": "Shared\\Common\\Common.cmconfig",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Common.cmconfig",
+              "RelativeToolTip": "Shared\\Common\\Common.cmconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:02:01.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BinDefinitions.bdefs",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\BinDefinitions.bdefs",
+              "RelativeDocumentMoniker": "Shared\\Common\\BinDefinitions.bdefs",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\BinDefinitions.bdefs",
+              "RelativeToolTip": "Shared\\Common\\BinDefinitions.bdefs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:01:58.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AxexSetupVars.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\AxexSetupVars.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\AxexSetupVars.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\AxexSetupVars.usrv",
+              "RelativeToolTip": "Shared\\Common\\AxexSetupVars.usrv",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:01:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnvironmentPyCommands.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\EnvironmentPyCommands.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\EnvironmentPyCommands.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\EnvironmentPyCommands.usrv",
+              "RelativeToolTip": "Shared\\Common\\EnvironmentPyCommands.usrv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:01:46.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IACoreExpSetupVars.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\IACoreExpSetupVars.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\IACoreExpSetupVars.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\IACoreExpSetupVars.usrv",
+              "RelativeToolTip": "Shared\\Common\\IACoreExpSetupVars.usrv",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:01:25.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlatformSetup.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\PlatformSetup.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\PlatformSetup.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\PlatformSetup.usrv",
+              "RelativeToolTip": "Shared\\Common\\PlatformSetup.usrv",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:01:16.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product_Features.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Product_Features.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\Product_Features.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Product_Features.usrv",
+              "RelativeToolTip": "Shared\\Common\\Product_Features.usrv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:01:14.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SearchCGEMSetupVars.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\SearchCGEMSetupVars.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\SearchCGEMSetupVars.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\SearchCGEMSetupVars.usrv",
+              "RelativeToolTip": "Shared\\Common\\SearchCGEMSetupVars.usrv",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:00:59.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShmooCGEMSetupVars.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\ShmooCGEMSetupVars.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\ShmooCGEMSetupVars.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\ShmooCGEMSetupVars.usrv",
+              "RelativeToolTip": "Shared\\Common\\ShmooCGEMSetupVars.usrv",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAHwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:00:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test_Operations.usrv",
+              "DocumentMoniker": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Test_Operations.usrv",
+              "RelativeDocumentMoniker": "Shared\\Common\\Test_Operations.usrv",
+              "ToolTip": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\Common\\Test_Operations.usrv",
+              "RelativeToolTip": "Shared\\Common\\Test_Operations.usrv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T10:00:00.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

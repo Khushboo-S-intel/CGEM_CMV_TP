@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\AguilaPowertools.csproj": {}
+    "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaPowertools\\AguilaPowertools.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\AguilaPowertools.csproj": {
+    "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaPowertools\\AguilaPowertools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\AguilaPowertools.csproj",
+        "projectUniqueName": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaPowertools\\AguilaPowertools.csproj",
         "projectName": "AguilaPowertools",
-        "projectPath": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\AguilaPowertools.csproj",
+        "projectPath": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaPowertools\\AguilaPowertools.csproj",
         "packagesPath": "C:\\Users\\kumarikh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\obj\\",
+        "outputPath": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaPowertools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\NuGet.Config",
-          "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\NuGet.Config",
+          "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\NuGet.Config",
+          "C:\\Users\\kumarikh\\Documents\\GitHub\\NuGet.Config",
           "C:\\Users\\kumarikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

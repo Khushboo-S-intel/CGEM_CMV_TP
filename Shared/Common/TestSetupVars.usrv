@@ -8,9 +8,9 @@ Version 1.0;
 
 SelectorRuleCollection DomainActionSelectors
 {
-    SelectorRule DomainAction(Core_Ratio, Atom, Ring, nac, svos, rhel, DEFAULT)
+    SelectorRule DomainAction(Core, Atom, Ring, nac, svos, rhel, DEFAULT)
     {
-        Core_Ratio => CurrentDomainTrack.currentDomain == "Core_Ratio";
+        Core => CurrentDomainTrack.currentDomain == "Core_Ratio";
         Atom => CurrentDomainTrack.currentDomain == "Atom";
         ddr => CurrentDomainTrack.currentDomain == "ddr";
         Ring => CurrentDomainTrack.currentDomain == "Ring";
@@ -85,7 +85,7 @@ UserVars ExperimentSetup
         # KS (vparallel_pcode)         Kick Start Voltage Setting. Apply fuse voltage one time and Parallel setting all points as long as all contents are passed
         # Hybrid     Hybrid parallel setting voltage
         # BOTH       Set Voltage at boot halt and also apply at EFI using FIVR registers
-	String VoltageSetOptions = "vparallel_pcode";
+	String VoltageSetOptions = "CORE0";
     
     # Possible values 
         # Core_Ratio            Set CoreRatio at Boot halt using fuse override
@@ -119,11 +119,11 @@ UserVars ExperimentSetup
     Double CoreVoltageMax8 = 0.64;
     Double CoreVoltageMax16 = 0.71;
     Double CoreVoltageMax20 = 0.76;
-    Double CoreVoltageMax24 = 0.82;
-    Double CoreVoltageMax30 = 0.92;
-    Double CoreVoltageMax35 = 1.07;
+    Double CoreVoltageMax30 = 0.82;
+    Double CoreVoltageMax40 = 0.92;
+    Double CoreVoltageMax48 = 1.07;
     Integer CoreVoltageCount = 0;
-    Array <Double> CoreRatioMaxVoltageRange = [CoreVoltageMax8, CoreVoltageMax16, CoreVoltageMax20, CoreVoltageMax24, CoreVoltageMax30, CoreVoltageMax35];
+    Array <Double> CoreRatioMaxVoltageRange = [CoreVoltageMax8, CoreVoltageMax16, CoreVoltageMax20, CoreVoltageMax30, CoreVoltageMax40, CoreVoltageMax48];
     
 ##	                   Temperature                      ##
 ## ---------------------------------------------------- ##
@@ -134,12 +134,12 @@ UserVars ExperimentSetup
     Integer SafeTemperature = 25;
 
     #String PossibleTemperature1 = CoreTemperatureSelector.SetTemperatureSelectorRule("75","75","75","75","75","80");
-    String CoreRatio8Temp = "75";
-    String CoreRatio16Temp= "75";
-    String CoreRatio20Temp = "75";
-    String CoreRatio24Temp = "75";
-    String CoreRatio30Temp = "75";
-    String CoreRatio35Temp = "80";
+    String CoreRatio8Temp = "85";
+    String CoreRatio16Temp= "85";
+    String CoreRatio20Temp = "85";
+    String CoreRatio30Temp = "85";
+    String CoreRatio40Temp = "75";
+    String CoreRatio48Temp = "75";
     #Array<String> TemperatureRange1 =[PossibleTemperature1];
     Integer TempLineCount = 0;
     
@@ -147,11 +147,11 @@ UserVars ExperimentSetup
 ## ---------------------------------------------------- ##
     # Core Ratio possible
     String CoreRatio1 = "8";
-    String CoreRatio2 = "20";
+    String CoreRatio2 = "16";
     String CoreRatio3 = "20";
-    String CoreRatio4 = "24";
-    String CoreRatio5 = "30";
-    String CoreRatio6 = "35";
+    String CoreRatio4 = "30";
+    String CoreRatio5 = "40";
+    String CoreRatio6 = "48";
     String SetFinalCoreRatio = "20";
     #String CoreRatioGlobal8 = "8"
     Array<String> CoreRatioGlobalRange = [CoreRatio1, CoreRatio2];

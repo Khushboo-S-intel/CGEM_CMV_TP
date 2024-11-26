@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nzvjsM+yIyg=",
+  "dgSpecHash": "b/Up5+RJX0k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kumarikh\\OneDrive - Intel Corporation\\Documents\\Aguila\\Test Programs\\ARL_CMV_CGEM_TP_ww47\\CGEM_v2\\Shared\\AguilaPowertools\\AguilaPowertools.csproj",
+  "projectFilePath": "C:\\Users\\kumarikh\\Documents\\GitHub\\CGEM_CMV_TP\\Shared\\AguilaPowertools\\AguilaPowertools.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kumarikh\\.nuget\\packages\\antlr4.runtime\\4.6.6\\antlr4.runtime.4.6.6.nupkg.sha512",
     "C:\\Users\\kumarikh\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
